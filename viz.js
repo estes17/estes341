@@ -6,7 +6,7 @@
  * - The options for the look of the chart to be drawn.
  * - How to draw the chart.
  *
- * @author: Tanya L. Crenshaw
+ * @author: Tanya L. Crenshaw,Mitchell Estes
  * @since: Jan 6, 2015
  */
 
@@ -55,6 +55,11 @@ function drawChart() {
         vAxis: {
             title: 'People Hours'
         },
+        animation: {
+            "startup" : true,
+            "duration" : 500
+        },
+
 	legend: { 
 	    position: 'none' 
 	}
