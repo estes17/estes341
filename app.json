@@ -1,0 +1,6 @@
+{
+  "name": "Enter a name"
+  "description": "Enter a description",
+  "repository": "https://github.com/username/nachorepo",
+  "keywords": ["node", "express", "static"]
+}
