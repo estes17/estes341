@@ -1,5 +1,5 @@
 {
-  "name": "Enter a name",
+  "name": "Mitchell",
   "version": "0.0.1",
   "description": "Enter a description",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
      "type": "git",
-     "url": "https://github.com/username/nachorepo"
+     "url": "https://github.com/estes17/estes341"
   },
   "keywords": [
     "node",

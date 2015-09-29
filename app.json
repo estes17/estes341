@@ -1,6 +1,6 @@
 {
-  "name": "Enter a name"
-  "description": "Enter a description",
-  "repository": "https://github.com/username/nachorepo",
+  "name": "Mitchell Estes"
+  "description": "My first app on Heroku",
+  "repository": "https://github.com/estes17/estes341",
   "keywords": ["node", "express", "static"]
 }
