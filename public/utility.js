@@ -10,6 +10,12 @@
  *                                                                                                                 
  */
 
+// Extend namespace                                                                                                                                                    
+var librs = librs || {};
+librs.utility = {};
+
+
+librs.utility = function() {
 
 // hasClass
 //
@@ -66,3 +72,9 @@ var removeClass = function(element, classToRemove) {
 	return;
     }
 };
+
+}; // end module                                                                                                                                                       
+
+// Invoke module.                                                                                                                                                      
+librs.utility();
+
